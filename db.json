@@ -1,0 +1,49 @@
+{
+    "articles": [
+      {
+        "id": 1,
+        "image": "../assets/images/articel-photo-01.svg",
+        "categorie": "Educação",
+        "title": "Regresso as aulas.",
+        "subtitle": "Novo ano lectivo teve início em Angola",
+        "description": "Mais um ano lectivo tem início em angola, onde mais de 1.245.200 estudantes regressaram as escolas só na província de luanda",
+        "author": "Garcia Pedro",
+        "date": "03-01-2023",
+        "source": "www.sapo.ao"
+      },
+      {
+        "id": 2,
+        "image": "../assets/images/articel-photo-01.svg",
+        "categorie": "Comunicação",
+        "title": "Angola Comunica Blog 2023",
+        "subtitle": "Lançamento do Blog Angola Comunica previsto para 2023.",
+        "description": "Lançamento do Blog Angola Comunica previsto para 2023",
+        "author": "Garcia Pedro",
+        "date": "03-01-2023",
+        "source": "www.sapo.ao"
+      },
+      {
+        "id": 3,
+        "image": "../assets/images/articel-photo-01.svg",
+        "categorie": "Tecnologia",
+        "title": "React JS",
+        "subtitle": "ova tecnologia desenvolvida pelo facebook tem ajudado milhares de desenvolvedores.",
+        "description": "Nova tecnologia desenvolvida pelo facebook tem ajudado milhares de desenvolvedores",
+        "author": "Garcia Pedro",
+        "date": "03-01-2023",
+        "source": "www.sapo.ao"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "comment": [],
+        "articleId": 1
+      },
+      {
+        "id": 2,
+        "comment": [],
+        "articleId": 2
+      }
+    ]
+  }
